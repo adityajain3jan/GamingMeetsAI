@@ -13,7 +13,7 @@ Deep Q-learning has been used to train the agent.
   * [mygame.py](https://github.com/adityajain3jan/GamingMeetsAI/blob/main/GamingMeetsAI/mygame.py): This file contains the code for the 2048 Game environment which has been used for the agent.
  
  - [Soc_Project_Report.md](https://github.com/adityajain3jan/GamingMeetsAI/blob/main/SoC_Project_Report.md): This file contains the complete progress report, including the links for the various resources that I used.
- - [ProjectReport.pdf](https://github.com/adityajain3jan/GamingMeetsAI/blob/main/Progress%20Report.pdf): Contains the progress report, in pdf format.
+ - [ProjectReport.pdf](https://github.com/adityajain3jan/GamingMeetsAI/blob/main/ProjectReport.pdf): Contains the progress report, in pdf format.
  
  ## Running the Code:
  ### Requirements:
